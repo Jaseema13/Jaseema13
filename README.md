@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jaseema13
-- 👀 I’m interested in software testing
-- 🌱 I’m currently learning selenium and python
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
