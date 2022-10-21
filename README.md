@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jaseema13
 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
